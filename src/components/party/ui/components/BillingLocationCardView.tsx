@@ -1,5 +1,5 @@
 import { FC } from 'react';
-import { List, ListItem, ListItemAvatar, Avatar, ListItemText, Typography, Divider } from '@mui/material';
+import { List, ListItem, ListItemText, Typography, Divider } from '@mui/material';
 import IParty from '../../model/party';
 import { Box } from '@mui/system';
 
